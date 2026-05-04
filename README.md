@@ -1,16 +1,16 @@
-## Hi there 👋
+# Master The Terminal
 
-<!--
-**master-the-terminal/master-the-terminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full-stack terminal mastery platform built with React + TypeScript + Vite + Hono + Drizzle ORM.
 
-Here are some ideas to get you started:
+## Features
+- Terminal-themed UI
+- Course + Lesson system
+- User authentication (Kimi OAuth)
+- Progress tracking
+- Payment integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Start
+
+```bash
+npm install
+npm run dev
